@@ -11,6 +11,6 @@
 - [2x Ultrasonic Range Finder (HC-SR04)](http://www.amazon.com/SainSmart-HC-SR04-Ranging-Detector-Distance/dp/B004U8TOE6)
 
 ###Outputs
-- [6x 12mm x 3.4mm coin motor(http://www.amazon.com/Voltage-Vibration-Micro-Motor-Phone/dp/B00NP4ARF6/)
+- [6x 12mm x 3.4mm coin motor](http://www.amazon.com/Voltage-Vibration-Micro-Motor-Phone/dp/B00NP4ARF6/)
   - Voltage: 1.5v-3v
   - Continuous Current: 55mA
